@@ -1,0 +1,16 @@
+ Sales Analytics Project — Business Insights
+
+1. Total Revenue
+The total revenue generated from all orders is ₹2,49,600.
+
+2. Total Orders
+A total of 20 orders were placed in the dataset.
+
+3. Top Revenue-Generating Category 
+Electronics generated the highest revenue, contributing ₹2,12,500.
+
+4. Highest-Spending Customer 
+Aarav was the highest-spending customer, with a total spend of ₹92,400.
+
+5. Best-Performing Month  
+May generated the highest monthly revenue of ₹64,200.
